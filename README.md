@@ -1,2 +1,2 @@
-# rythm-game1
+# rhythm-game1
 Attempt at making my own rhythm game
